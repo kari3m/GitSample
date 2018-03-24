@@ -8,7 +8,14 @@ li{
     padding: 5px;
   margin-bottom: 5px;
   width: 200px;
-  color: white;
+
+
   border: solid 2px #FEC20F;
   background-color: #293540;
+
+
+  color: #293540;
+
+  font-weight: bold;
+  list-style: none;
 }
